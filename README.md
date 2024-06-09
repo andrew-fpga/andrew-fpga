@@ -35,10 +35,10 @@
 <div align="center">
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
+<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnIxOKxQld6NPrJnpTMtqyc4qYCptGiRVbYK5TNQ3i6t7kWxXR8TJXSFemevT3owxXao&usqp=CAU" alt="Azure" height="50" /></a>  
 <a href="https://mqtt.org/" target="_blank"><img style="margin: 10px" src="https://media.licdn.com/dms/image/D5612AQE3XK8kOWO8aA/article-cover_image-shrink_600_2000/0/1693403810082?e=2147483647&v=beta&t=ScqaazDRq2pvTBGGxObwPJ8I63ZEhAY20f7T9d8lhLU" alt="MQTT" height="50" /></a>
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://aws.amazon.com/iot/" target="_blank"><img style="margin: 10px" src="https://play-lh.googleusercontent.com/tXi5rTVQdi3Nk24wdUKOED1NA0ovw6GsZmfLSjZQNRmLUDtdAPVaas7NujI9Pc4ttrU" alt="AWS IoT" height="50" /></a>  
 <a href="https://www.influxdata.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
 </div>
