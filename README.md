@@ -1,8 +1,6 @@
 <div align="center">
 <img src="[https://ce.uci.edu/getmedia/506d3d8f-2511-4196-a61e-52e47625ddc9/DevelopingEmbeddedAISystems.jpg](https://omdayal.com/wp-content/uploads/2022/06/internet-of-things-in-engineering-header.jpg)" align="center" style="width: 100%" />
-</div>  
-
-## My Skills  
+</div>
 <table><tr><td valign="top" width="33%">
 
 ### Full-stack & DevOps
