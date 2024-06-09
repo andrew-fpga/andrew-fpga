@@ -1,6 +1,3 @@
-Here's the updated GitHub README with the new table as requested:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Senior Full-Stack IoT Engineer</h1>
 
 ## My Skill Set  
@@ -40,9 +37,8 @@ Here's the updated GitHub README with the new table as requested:
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
 </div>
 
-</td></tr></table>  
-
-<table><tr><td valign="top" width="33%">
+</td></tr>
+<tr><td valign="top" width="33%">
 
 ### Firmware  
 <div align="center">  
@@ -85,6 +81,3 @@ Here's the updated GitHub README with the new table as requested:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/brian-hernandez-phi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brian-hernandez-phi/" height="30" width="40" /></a></p>
-```
-
-This README includes a new table with columns for Firmware, Protocol, and Cloud IoT skills.
