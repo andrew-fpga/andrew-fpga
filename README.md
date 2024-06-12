@@ -50,9 +50,6 @@
 </tr>
 </table>  
 
-
-Great! Here is the refined introduction with the specific aspects emphasized:
-
 Hello,
 
 I am a Senior Embedded/IoT Engineer with 14 years of extensive experience in full-stack web development, microservices, embedded systems, firmware development, machine learning, cloud computing, and IoT. Recently, I have expanded my expertise to include chip design with Intel FPGA.
