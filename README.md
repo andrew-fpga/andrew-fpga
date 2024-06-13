@@ -50,13 +50,13 @@
 </tr>
 </table>  
 
-Hello,
+## Hello,
 
-I am a Senior Embedded/IoT Engineer with 14 years of extensive experience in full-stack web development, microservices, embedded systems, firmware development, machine learning, cloud computing, and IoT. Recently, I have expanded my expertise to include chip design with Intel FPGA.
+I am a **Senior Embedded/IoT Engineer** with **14 years of extensive experience** in **full-stack web development**, **microservices**, **embedded systems**, **firmware development**, **machine learning**, **cloud computing**, and **IoT**. Recently, I have expanded my expertise to include **chip design with Intel FPGA**.
 
-My career has been driven by a strong passion for edge computing and embedded AI, with a specific focus on Intel FPGA, Verilog, RISC-V, Nios-V, TensorFlow, TensorFlow Lite, and OpenVINO. I am dedicated to developing high-performance, low-latency, and low-power embedded AI solutions, aiming to drive future innovations in IoT.
+My career has been driven by a strong passion for **edge computing** and **embedded AI**, with a specific focus on **Intel FPGA**, **Verilog**, **RISC-V**, **Nios-V**, **TensorFlow**, **TensorFlow Lite**, and **OpenVINO**. I am dedicated to developing **high-performance**, **low-latency**, and **low-power embedded AI solutions**, aiming to drive future innovations in IoT.
 
-My professional vision is to harness cutting-edge technologies to create robust, efficient, and scalable IoT solutions. I am committed to continuous learning and staying at the forefront of technological advancements to deliver exceptional results and push the boundaries of what is possible in the field of IoT and embedded systems.
+My professional vision is to harness **cutting-edge technologies** to create **robust**, **efficient**, and **scalable IoT solutions**. I am committed to **continuous learning** and staying at the forefront of technological advancements to deliver **exceptional results** and push the boundaries of what is possible in the field of **IoT** and **embedded systems**.
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
