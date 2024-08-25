@@ -59,5 +59,5 @@ My career has been driven by a strong passion for **edge computing** and **embed
 My professional vision is to harness **cutting-edge technologies** to create **robust**, **efficient**, and **scalable IoT solutions**. I am committed to **continuous learning** and staying at the forefront of technological advancements to deliver **exceptional results** and push the boundaries of what is possible in the field of **IoT** and **embedded systems**.
 
 <h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brian-hernandez-phi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brian-hernandez-phi/" height="30" width="40" /></a></p>
+<!-- <p align="right">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/brian-hernandez-phi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brian-hernandez-phi/" height="30" width="40" /></a></p> -->
